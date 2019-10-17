@@ -8,20 +8,45 @@ Initialized empty Git repository in C:/Users/Sonp/OneDrive/Project/Git Tutorial/
 Kiểm tra trạng thái
 Example:
 
+*Vào link git web để tạo responsitory
+https://github.com/phamson9861/
+Ví dụ tạo : Git-Tutorial
+
 
 4) git add .
+hoặc 
+git add "filename"
 Kiểm tra từng file
 Example:
-
 
 5) git commit -m "Commit mesage"
 Viết tiêu đề
 Example:
+git add "Cach tao upload file.txt"
 
 
-6) git push -r url master
+6) git push -u url master
 Đẩy file lên trên server
 Example:
+git push -u https://github.com/phamson9861/Git-Tutorial.git  master
+Kết quả.
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 558 bytes | 186.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/phamson9861/Git-Tutorial.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'https://github.com/phamson9861/Git-Tutorial.git'.
+
+C:\Users\Sonp\OneDrive\Project\Git Tutorial>
+
+
+
 
 7) Mở file xác nhận
 Example:
+https://github.com/phamson9861/Git-Tutorial/blob/master/Cach%20tao%20upload%20file.txt
+
+
