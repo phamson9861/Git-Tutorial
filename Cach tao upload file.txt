@@ -1,0 +1,27 @@
+1> Sử dụng command line cmd git.
+2) git init
+Khởi tạo file nguồn để upload
+Example: 
+C:\Users\Sonp\OneDrive\Project\Git Tutorial>git init
+Initialized empty Git repository in C:/Users/Sonp/OneDrive/Project/Git Tutorial/.git/
+3) git status
+Kiểm tra trạng thái
+Example:
+
+
+4) git add .
+Kiểm tra từng file
+Example:
+
+
+5) git commit -m "Commit mesage"
+Viết tiêu đề
+Example:
+
+
+6) git push -r url master
+Đẩy file lên trên server
+Example:
+
+7) Mở file xác nhận
+Example:
