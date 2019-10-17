@@ -48,5 +48,3 @@ C:\Users\Sonp\OneDrive\Project\Git Tutorial>
 7) Mở file xác nhận
 Example:
 https://github.com/phamson9861/Git-Tutorial/blob/master/Cach%20tao%20upload%20file.txt
-
-
