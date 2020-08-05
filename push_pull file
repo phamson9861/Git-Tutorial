@@ -6,6 +6,8 @@
 --> Tạo comment
 4) Git pull https://github.com/phamson9861/product.git
 --> Lấy code về
+Lửu ý, các thay đổi như thêm branch cũng được đưa về
+
 A) Git log
 xem các thay đổi trên server,
 B) git status
