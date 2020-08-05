@@ -1,0 +1,30 @@
+Kiểm tra branch hiện có
+$ git branch
+* master<<kết quả>>
+
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+1.
+$ git checkout -b feature/horse-class
+<<kết quả>>
+Switched to a new branch 'feature/horse-class'
+-------------------------------------------
+Kiểm tra 
+$ git status
+On branch feature/horse-class
+nothing to commit, working tree clean
+--------------------------------------------
+2.
+
+$ git push origin feature/horse-class
+<<kết quả>>
+Total 0 (delta 0), reused 0 (delta 0)
+remote:
+remote: Create a pull request for 'feature/horse-class' on GitHub by visiting:
+remote:      https://github.com/phamson9861/product/pull/new/feature/horse-class
+remote:
+To https://github.com/phamson9861/product.git
+ * [new branch]      feature/horse-class -> feature/horse-class
+
