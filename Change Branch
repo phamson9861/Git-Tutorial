@@ -1,0 +1,11 @@
+1.
+git checkout <<branchname>>
+Chuyển Branch
+Ex: git checkout master
+git checkout TestBranch
+2. Tao branch
+  git switch -c 'TestBranch'
+3. 
+$ git branch -D feature/horse-class
+<<Xóa branch>>
+4.
