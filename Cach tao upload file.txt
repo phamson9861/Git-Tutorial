@@ -16,8 +16,11 @@ Ví dụ tạo : Git-Tutorial
 4) git add .
 hoặc 
 git add "filename"
+hoặc 
+git add "Folder Name/"
 Kiểm tra từng file
 Example:
+git add "Nameraka/"
 
 5) git commit -m "Commit mesage"
 Viết tiêu đề
