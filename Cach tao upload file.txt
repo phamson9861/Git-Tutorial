@@ -22,7 +22,7 @@ Kiểm tra từng file
 Example:
 git add "Nameraka/"                       /*ý nghĩa: khai báo folder Nameraka với git */
 
-5) git commit -m "Commit mesage"
+5) git commit -m "Commit mesage"           <<bat buoc>>
 Viết tiêu đề
 Example:
 git add "Cach tao upload file.txt"          
