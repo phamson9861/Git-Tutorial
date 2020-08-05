@@ -26,5 +26,5 @@ remote: Create a pull request for 'feature/horse-class' on GitHub by visiting:
 remote:      https://github.com/phamson9861/product/pull/new/feature/horse-class
 remote:
 To https://github.com/phamson9861/product.git
- * [new branch]      feature/horse-class -> feature/horse-class
+ * [new branch]      feature/horse-class -> feature/horse-class             <<------------quan trọng
 
