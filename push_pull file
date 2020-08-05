@@ -1,0 +1,12 @@
+1) git clone https://github.com/phamson9861/product.git
+Để lấy tất cả các file về
+2)  git push https://github.com/phamson9861/product.git
+để đẩy file lên
+3) git commit -m "Comment Newest"
+--> Tạo comment
+4) Git pull https://github.com/phamson9861/product.git
+--> Lấy code về
+A) Git log
+xem các thay đổi trên server,
+B) git status
+xem các trạng thái, đứng dưới dạng local
