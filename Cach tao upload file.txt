@@ -20,12 +20,12 @@ hoặc
 git add "Folder Name/"
 Kiểm tra từng file
 Example:
-git add "Nameraka/"
+git add "Nameraka/"                       /*ý nghĩa: khai báo folder Nameraka với git */
 
 5) git commit -m "Commit mesage"
 Viết tiêu đề
 Example:
-git add "Cach tao upload file.txt"
+git add "Cach tao upload file.txt"          
 
 
 6) git push -u url master
