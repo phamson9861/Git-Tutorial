@@ -5,6 +5,8 @@ Ex: git checkout master
 git checkout TestBranch
 2. Tao branch
   git switch -c 'TestBranch'
+ 3. Đẩy branch lên local
+  git push origin 'TestBranch'
 3. 
 $ git branch -D feature/horse-class
 <<Xóa branch>>
