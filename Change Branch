@@ -5,9 +5,12 @@ Ex: git checkout master
 git checkout TestBranch
 2. Tao branch
   git switch -c 'TestBranch'
- 3. Đẩy branch lên local
+3. Đẩy branch lên local
   git push origin 'TestBranch'
+
+//Chú ý nếu trước đó thay đổi file. hoặc sử dụng commit.
+// Tất cả sẽ được update lên theo.
+  
 3. 
 $ git branch -D feature/horse-class
 <<Xóa branch>>
-4.
