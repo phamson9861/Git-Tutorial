@@ -8,3 +8,21 @@ usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface]
            [-Q query_option] [-R address] [-S ctl_path] [-W host:port]
            [-w local_tun[:remote_tun]] destination [command]
 
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+gpg: key F695C64CE49898D1 marked as ultimately trusted
+gpg: directory '/c/Users/Sonp/.gnupg/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/c/Users/Sonp/.gnupg/openpgp-revocs.d/6F506024769CFC5AB0561133F695C64CE49898D1.rev'
+public and secret key created and signed.
+
+pub   rsa2048 2020-08-08 [SC]
+      6F506024769CFC5AB0561133F695C64CE49898D1
+uid                      phamson9861 (gpg key) <phamson9861@gmail.com>
+sub   rsa2048 2020-08-08 [E]
+
