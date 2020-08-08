@@ -32,6 +32,12 @@ git add "Cach tao upload file.txt"
 Đẩy file lên trên server
 Example:
 git push -u https://github.com/phamson9861/Git-Tutorial.git  master
+
+----
+Cach2 co the dung lenh sau để ghi đè:
+git remote add origin https://github.com/phamson9861/Git-Tutorial.git
+git push -u origin master
+
 Kết quả.
 Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
