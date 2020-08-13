@@ -1,0 +1,25 @@
+
+$ git remote show origin
+
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+--> SUA PHAI XOA ORIGIN DO DI
+git remote rm origin
+THAM KHAO:
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+$ git remote add origin https://github.com/phamson00/N3_02.git
+fatal: remote origin already exists.
+
+$ git push -u origin master
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+--> PHAI THEM PUBLICKEY
+https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
