@@ -9,3 +9,34 @@ Changes not staged for commit:
   (use "git add/rm <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
         deleted:    3_ fix 4 common data layouts_Unpivot table__.xlsx
+--------------------------------------------------------------------------------------
+
+git status:
+--> Xảy ra khi thực hiện lệnh : git init: khởi tạo workspace.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1_ fix 4 common data layouts_Unpivot table__.xlsx
+        2_ fix 4 common data layouts_Unpivot table__.xlsx
+---> trạng thái: chưa theo dõi: UNtracked
+------------------------------------------------------------------------------------------
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+  ---> trạng thái: unstage
+  --> xảy ra sau khi thực hiện lệnh : git add . hoặc git add <filename>
+  
+------------------------------------------------------------------------------
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+  ---> trạng thái: unstage
+  --> xảy ra sau khi thực hiện lệnh : git add . hoặc git add <filename>
+-------------------------------------------------------------------------------
+nothing to commit, working tree clean
+--> trạng thái: nothing to commit
+tức là nội dung trong thư mục làm việc và nội dung trong local là giống nhau.
+
+* Tuy nhiên nếu vẫn có thể chưa có gì commit lên thì kiểm tra:
+Sửa: git remote add origin https://github.com/phamson9861/Tutorial-Power-Query-M.git
+     git push -u  https://github.com/phamson9861/Tutorial-Power-Query-M.git
+----------------------------------------------------------------------------------
