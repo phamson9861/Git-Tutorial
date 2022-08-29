@@ -1,0 +1,18 @@
+git branch
+  master
+* origin
+-- Nghĩa là : có 2 nhánh Master và Origin.
+Con trỏ đang ở nhánh origin
+------------------------------------------------------------
+ git branch -a
+  master
+* origin
+  remotes/origin/main
+  remotes/origin/master
+  --Nghĩa là:
+  có 2 remote remotes/origin/main và remotes/origin/master 
+-----------------------------------------------------------------------
+
+git log --oneline
+6d9af95 (HEAD -> origin, origin/master, master) Power query M
+--Nghĩa là: câu lệnh có tên : 6d9a..5 đang có con trỏ trỏ tới remote origin,  ở nhánh master, tên Power query M
