@@ -9,8 +9,12 @@ Con trỏ đang ở nhánh origin
 * origin
   remotes/origin/main
   remotes/origin/master
+  remotes/origin/origin
+
   --Nghĩa là:
-  có 2 remote remotes/origin/main và remotes/origin/master 
+  
+  có 2 local: master và origin.
+  có 3 remote: remotes/origin/main và remotes/origin/master và remotes/origin/origin
 -----------------------------------------------------------------------
 
 git log --oneline
