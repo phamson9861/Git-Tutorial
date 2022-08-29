@@ -19,7 +19,10 @@ Con trỏ đang ở nhánh origin
 
 git log --oneline
 6d9af95 (HEAD -> origin, origin/master, master) Power query M
---Nghĩa là: câu lệnh có tên : 6d9a..5 đang có con trỏ trỏ tới remote origin,  ở nhánh master, tên Power query M
+--Nghĩa là: 
++câu lệnh thứ : 6d9a..5 đang có con trỏ trỏ tới remote origin,  ở nhánh master, tên commit "Power query M"
++ origin ở trên máy và master trên local là giống nhau.
+
 ---------------------------------------------------------------------
 git status
 
@@ -29,3 +32,8 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
         deleted:    3_ fix 4 common data layouts_Unpivot table__.xlsx
         deleted:    4_ fix 4 common data layouts_Unpivot table__.xlsx
+        -------------------------------------------------------------------
+git config --list
+
+
+        
