@@ -11,6 +11,8 @@ Changes not staged for commit:
         deleted:    3_ fix 4 common data layouts_Unpivot table__.xlsx
 ---> Sửa nếu muốn lấy lại.
 git restore 3_ fix 4 common data layouts_Unpivot table__.xlsx
+git restore .  <<phục hồi toàn bộ>>
+
 --------------------------------------------------------------------------------------
 
 git status:
