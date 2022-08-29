@@ -1,0 +1,6 @@
+Sử dụng khi trên Server đã thay đổi ví dụ có nhiều file mới so với local.
+Do đó cần phải tạo remote để thao tác.
+
+Thêm Remote.
+git remote add <name> <address>
+git remote add origin https://github.com/phamson9861/Tutorial-Power-Query-M.git
