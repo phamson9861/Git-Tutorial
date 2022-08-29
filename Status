@@ -1,0 +1,11 @@
+Có 4 trạng thái trong git status
+
+git status
+
+
+git status
+On branch origin
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    3_ fix 4 common data layouts_Unpivot table__.xlsx
